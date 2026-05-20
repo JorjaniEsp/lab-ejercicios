@@ -1,0 +1,57 @@
+# ==========================================
+# 1. ESPECÍFICO DE OBSIDIAN & EXCALIDRAW
+# ==========================================
+# Ignorar el archivo de espacio de trabajo local (evita conflictos de cursores/pestañas abiertas)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Ignorar cachés locales de plugins y parches
+.obsidian/plugins/**/*.log
+.obsidian/cache/
+
+# OPTATIVO: Si no quieren compartir fuentes locales o temas descargados
+# .obsidian/themes/
+# .obsidian/fonts/
+
+
+# ==========================================
+# 2. ESPECÍFICO DE JAVA (Para cuando programen)
+# ==========================================
+# Ignorar archivos compilados (.class)
+*.class
+
+# Archivos de empaquetado
+*.war
+*.ear
+*.jar
+
+# Carpetas de salida de compilación comunes (Maven / Gradle / NetBeans)
+target/
+build/
+bin/
+nbproject/private/
+
+
+# ==========================================
+# 3. ENTORNOS DE DESARROLLO (IDEs)
+# ==========================================
+# VS Code (Configuraciones locales de la ventana)
+.vscode/
+
+# IntelliJ IDEA (Si alguno lo usa)
+.idea/
+*.iml
+
+
+# ==========================================
+# 4. ARCHIVOS DEL SISTEMA OPERATIVO
+# ==========================================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
