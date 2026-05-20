@@ -6,7 +6,7 @@ Tipo: Arrays
 ### Enunciado:
 Dado un array de números, devuelve la cantidad de elementos que son estrictamente menores que 0. 
 
-##### Ejemplos 
+##### Ejemplos de salida
 ```java
 countNegatives(new int[]{-1, 2, -3, 4, 0}) // 2 
 countNegatives(new int[]{1, 2, 3}) // 0 
