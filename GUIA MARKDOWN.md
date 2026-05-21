@@ -3,7 +3,6 @@
 Usa esta guía de referencia para mantener nuestras notas teóricas y retos de código con una estructura visual limpia, profesional y uniforme.
 
 ---
-
 ## 1. Enlaces y Multimedia (Sintaxis Básica)
 
 | ==Qué quieres lograr==            | ==**Comando / Sintaxis**==          | ==**Resultado**==                 |
@@ -65,4 +64,5 @@ Utilízalo en los archivos `README` principales para explicar cómo se dividen l
 ![[Pasted image 20260520154150.png]]
 
 ---
+
 

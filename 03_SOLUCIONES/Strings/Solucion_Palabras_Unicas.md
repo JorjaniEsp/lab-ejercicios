@@ -1,5 +1,5 @@
-## 🛠️ Resolución: Contar palabras únicas 
-Volver al enunciado: [[Palabras_Unicas]] 
+## 🛠️ Solución: Contar palabras únicas 
+Volver al enunciado: [[Contar_palabras_únicas]] 
 ### 📋 Estado
 - [ ] **Completado** (Márcalo con una 'x' entre los corchetes o hazle clic en la vista previa) 
 ### 🧠 Análisis y Lógica

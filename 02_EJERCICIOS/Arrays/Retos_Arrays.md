@@ -1,7 +1,7 @@
-# 🧵Banco de Arrays
+# 🧵Banco de ejercicios con Arrays
 
-Aquí iremos listando todos los problemas de cadenas de texto.
+Aquí iremos listando todos los ejercicios con Arrays.
 
 ## 🟢 Nivel Fácil
-- [ ] [[Contar elementos negativos]] — Contar elementos negativos
-- [ ] 
+- [ ] [[Contar elementos negativos]] 
+- [ ] [[Intercalar dos arrays]]
