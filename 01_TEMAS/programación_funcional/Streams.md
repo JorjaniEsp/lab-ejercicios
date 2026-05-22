@@ -109,3 +109,6 @@ long cantidadMayores = edades.stream()
 boolean hayAlguienDe30 = edades.stream()
                                .anyMatch(e -> e == 30); 
 ```
+
+- [[Ejemplos de streams| Más ejemplos de streams]]
+- [[Retos_Streams| Ejercicios para repasar]] 
