@@ -15,6 +15,7 @@ Se les conoce también como interfaces SAM (*Single Abstract Method*). Son contr
 Es una buena práctica colocar esta anotación arriba de tu interfaz. No es obligatoria, pero le dice al compilador de Java que vigile que nadie agregue un segundo método abstracto por accidente, lo cual rompería tus lambdas.
 
 ### Ejemplo de Interfaz Funcional:
+
 ```java
 @FunctionalInterface
 public interface OperacionMatematica {
