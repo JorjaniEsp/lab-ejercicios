@@ -9,3 +9,6 @@ Aquí iremos listando todos los ejercicios para dominar la API de Streams, expre
 ### 🟡 Nivel Medio 
 - [ ] [[El calculador de promedio de calificaciones]] 
 - [ ] [[El formateador de etiquetas]] 
+
+### 🔥 Retos Integradores
+- [ ] [[Ejercicio Integrador La Concesionaria]] 
